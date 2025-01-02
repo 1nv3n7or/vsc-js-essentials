@@ -2,9 +2,14 @@
   "name": "1nv3n7or-js-essentials",
   "displayName": "[1nv3n7or] JS Essentials",
   "description": "Essential plugins for JS development",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "1nv3n7or",
+  "author": {
+    "name": "1nv3n7or"
+  },
   "repository": "https://github.com/1nv3n7or/vsc-js-essentials",
+  "icon": "images/icon.png",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.96.0"
   },
