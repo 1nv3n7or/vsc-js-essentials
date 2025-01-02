@@ -1,0 +1,20 @@
+{
+  "name": "1nv3n7or-js-essentials",
+  "displayName": "1nv3n7or - JS Essentials",
+  "description": "Essential plugins for JS development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "christian-kohler.path-intellisense", 
+    "dbaeumer.vscode-eslint", 
+    "esbenp.prettier-vscode", 
+    "fill-labs.dependi", 
+    "usernamehw.errorlens", 
+    "vscode-icons-team.vscode-icons"
+  ]
+}
