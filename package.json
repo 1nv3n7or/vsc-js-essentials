@@ -1,8 +1,8 @@
 {
-  "name": "1nv3n7or-js-essentials",
+  "name": "js-essentials",
   "displayName": "[1nv3n7or] JS Essentials",
   "description": "Essential plugins for JS development",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "1nv3n7or",
   "author": {
     "name": "1nv3n7or"
@@ -22,6 +22,7 @@
     "esbenp.prettier-vscode", 
     "fill-labs.dependi", 
     "usernamehw.errorlens", 
-    "vscode-icons-team.vscode-icons"
+    "vscode-icons-team.vscode-icons",
+    "1nv3n7or.vsc-easy-log"
   ]
 }
